@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">myproject</string>
+    <string name="loan">Loan </string>
+    <string name="mortage">Mortgage </string>
+    <string name="even">Break Even Point</string>
+    <string name="payback">Pay Back Period</string>
+    <string name="bill_amount">Bill Amount</string>
+    <string name="down_payment">Down Payment %</string>
+    <string name="period">period in years</string>
+    <string name="interest">Interest Rate %</string>
+    <string name="monthly_payment">Monthly Payment: %s</string>
+</resources>
